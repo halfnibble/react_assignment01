@@ -1,0 +1,28 @@
+.userForm {
+    background-color: #4d5a64;
+    color: #9dcbee;
+    padding: 40px;
+}
+
+.label {
+    font-weight: bold;
+    margin-right: 8px;
+    font-size: 1.1rem;
+}
+
+.input {
+    padding: 8px;
+    border-radius: 4px;
+    font-size: 1.2rem;
+}
+
+.outputCard {
+    margin: 20px;
+    padding: 15px;
+    border: 1px solid #e1e1e1;
+    border-radius: 4px;
+    box-shadow: 0 2px 4px #ddd;
+    width: calc(33.33333% - 40px);
+    float: left;
+    box-sizing: border-box;
+}
